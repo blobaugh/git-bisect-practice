@@ -12,6 +12,6 @@ function add_adding_shortcode( $atts ) {
 
 	$total = $atts['a'] + $atts['b'];
 
-      return "$total";
+      return "Your total is: $total";
 }
 add_shortcode( 'add', 'add_adding_shortcode' );
