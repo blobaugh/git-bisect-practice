@@ -1,6 +1,6 @@
 Git Bisect Practice
 ===================
 
-What did Batman say to Robin before they got in the Batmobile?
+What is brown and sticky?
 
-Robin, get in the Batmobile
+A stick!
